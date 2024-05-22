@@ -1,5 +1,5 @@
 # 123
-123 = main
+123 = func_ad
 2343
 eurhyeyhryhre89r
 rjeihrj
